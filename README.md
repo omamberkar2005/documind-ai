@@ -2,6 +2,9 @@
 
 A RAG-based Document Q&A system that lets you chat with any PDF using AI.
 
+## Demo Screenshot
+![DocuMind AI Demo](demo.png)
+
 ## Features
 - 📄 Upload any PDF and ask questions about it
 - 🔍 Semantic search using vector embeddings
