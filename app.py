@@ -202,10 +202,10 @@ hr {
 """, unsafe_allow_html=True)
 
 # ── PAGE CONFIG ───────────────────────────────────────────────
-st.set_page_config(page_title="DocuMind AI", page_icon="🧠", layout="centered")
+st.set_page_config(page_title="AskMyPDF", page_icon="🧠", layout="centered")
 
 # ── HEADER ────────────────────────────────────────────────────
-st.markdown("<h1>🧠 DocuMind AI</h1>", unsafe_allow_html=True)
+st.markdown("<h1>🧠 AskMyPDF</h1>", unsafe_allow_html=True)
 st.markdown("<p style='text-align:center; color:#94a3b8; margin-bottom:2rem;'>Upload any PDF and have a conversation with it</p>", unsafe_allow_html=True)
 
 # ── SESSION STATE ─────────────────────────────────────────────
